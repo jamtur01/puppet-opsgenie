@@ -1,0 +1,5 @@
+name 'puppet-opsgenie'
+version '0.0.1'
+license 'Apache 2.0'
+summary 'Report processor that notifies Opsgenie channel about failed Puppet runs'
+project_page 'https://github.com/jamtur01/puppet-opsgenie'
